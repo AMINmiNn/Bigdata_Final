@@ -1,4 +1,4 @@
-# BIgdata_Final  
+# Bigdata_Final  
 ## The final project of BIGDATA TECHNOLOGY AND APPLICATION(2022-Autumn)  
 Based on tensorflow and keras,we analyse the stability of the power systems and predict the stability margin.  
 There is a [Competitive Experiment](https://www.datafountain.cn/competitions/616) based on datafountain.  
